@@ -1,0 +1,47 @@
+StadtTiles
+
+ID	Straﬂen/Aussehen
+
+1	links/rechts
+2	oben/unten
+3	oben/links
+4	links/unten
+5	unten/rechts
+6	rechts/oben
+7	links/oben/rechts
+8	oben/links/unten
+9	links/unten/rechts
+10	unten/rechts/oben
+11	Kreuzung
+12	links
+13	rechts
+14	oben
+15	unten
+16	BossSpawn oben links
+17	BossSpawn oben mitte
+18	BossSpawn oben rechts
+19	BossSpawn mitte links
+20 	BossSpawn mitte mitte
+21	BossSpawn mitte rechts
+22	BossSpawn unten links
+23	BossSpawn unten mitte
+24	BossSpawn unten rechts
+25	Arena links oben
+26	Arena rechts oben
+27	Arena links unten
+28	Arena rechts unten
+29	Park klein
+30	nur Haus
+50	Stadtbunker
+
+Spawnworld Tiles
+100 Links unten
+101 Unten mitte
+102 Rechts unten
+103 Links mitte
+104 Mitte
+105 Rechts Mitte
+106 Links oben
+107 Oben mitte
+108 Rechts oben
+109 Schwarze Void um den Bunker
